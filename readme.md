@@ -1,7 +1,7 @@
 # Housing Loan Data Analysis (EDA Project)
 
 ## Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on a housing loan dataset, inspired by India Shelter Homes.  
+This project performs **Exploratory Data Analysis (EDA)** on a housing loan dataset.  
 The goal is to understand patterns in loan approval, analyze applicant profiles, and extract actionable insights that can help in business decision-making.
 
 ---
