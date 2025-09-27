@@ -1,0 +1,301 @@
+ApplicantID,Age,Gender,Marital_Status,Education,Employment_Type,ApplicantIncome,LoanAmount,Loan_Term_Months,Credit_History,Property_Area,Loan_Status
+1,24,Male,Married,Not Graduate,Salaried,79926,1044046,120,1,Rural,Approved
+2,50,Female,Married,Not Graduate,Salaried,60750,685947,180,1,Rural,Approved
+3,56,Male,Single,Graduate,Self Employed,18870,841526,120,1,Urban,Approved
+4,39,Male,Married,Not Graduate,Salaried,51900,822653,120,1,Rural,Rejected
+5,41,Female,Single,Graduate,Self Employed,34583,231242,120,1,Urban,Approved
+6,44,Female,Married,Graduate,Salaried,57206,1199385,180,1,Urban,Approved
+7,55,Female,Married,Graduate,Self Employed,16774,760913,300,1,Urban,Rejected
+8,54,Male,Married,Graduate,Salaried,60711,978615,360,1,Semiurban,Approved
+9,31,Male,Married,Not Graduate,Self Employed,17902,784425,360,1,Semiurban,Approved
+10,54,Male,Married,Graduate,Self Employed,40013,1387535,120,1,Urban,Approved
+11,54,Male,Married,Not Graduate,Self Employed,38259,825757,300,1,Semiurban,Approved
+12,47,Female,Single,Not Graduate,Salaried,35875,1137934,240,1,Semiurban,Rejected
+13,41,Male,Married,Not Graduate,Salaried,73979,421529,180,1,Rural,Approved
+14,36,Male,Single,Graduate,Salaried,63285,631926,180,1,Urban,Approved
+15,58,Male,Married,Graduate,Salaried,38558,1466438,360,0,Rural,Approved
+16,54,Male,Married,Graduate,Salaried,14864,851035,120,0,Semiurban,Rejected
+17,38,Male,Married,Graduate,Salaried,40592,104436,300,1,Semiurban,Approved
+18,26,Male,Single,Not Graduate,Salaried,27526,1085469,300,1,Urban,Approved
+19,25,Male,Married,Graduate,Salaried,35330,163049,180,1,Urban,Approved
+20,24,Male,Married,Graduate,Salaried,54779,567996,300,1,Urban,Approved
+21,42,Male,Married,Graduate,Salaried,22975,1085290,300,1,Rural,Approved
+22,24,Male,Married,Graduate,Salaried,52397,842421,180,1,Rural,Approved
+23,42,Male,Single,Graduate,Salaried,39102,1463864,300,0,Rural,Approved
+24,29,Male,Married,Graduate,Salaried,55556,1150264,300,0,Urban,Approved
+25,57,Male,Single,Graduate,Salaried,66402,401503,360,1,Semiurban,Approved
+26,50,Male,Married,Graduate,Salaried,54936,1221048,180,1,Urban,Approved
+27,55,Male,Single,Graduate,Self Employed,48985,273666,120,0,Rural,Approved
+28,43,Male,Single,Graduate,Salaried,10169,757570,120,1,Urban,Approved
+29,52,Male,Single,Not Graduate,Salaried,75719,812878,360,1,Semiurban,Approved
+30,49,Female,Married,Not Graduate,Salaried,53772,683851,180,1,Semiurban,Rejected
+31,56,Male,Single,Not Graduate,Salaried,19814,862122,360,1,Rural,Approved
+32,55,Male,Single,Graduate,Salaried,46881,191494,120,1,Rural,Approved
+33,34,Female,Married,Graduate,Salaried,22232,362923,180,0,Semiurban,Approved
+34,25,Male,Single,Graduate,Salaried,16719,1030327,180,1,Semiurban,Rejected
+35,27,Female,Single,Not Graduate,Salaried,41284,338234,360,1,Urban,Approved
+36,22,Female,Married,Not Graduate,Salaried,36563,410293,180,0,Urban,Rejected
+37,33,Female,Married,Graduate,Salaried,29654,232229,180,1,Rural,Rejected
+38,56,Female,Single,Graduate,Self Employed,75463,202980,300,1,Urban,Approved
+39,32,Female,Married,Not Graduate,Salaried,36563,879103,120,0,Urban,Rejected
+40,44,Male,Married,Graduate,Salaried,19575,955868,240,1,Urban,Approved
+41,35,Female,Married,Graduate,Salaried,78005,714456,360,0,Urban,Rejected
+42,40,Male,Married,Graduate,Salaried,47297,304680,300,1,Urban,Approved
+43,58,Female,Married,Graduate,Self Employed,37979,1221743,180,1,Urban,Approved
+44,37,Male,Married,Graduate,Salaried,32565,1048348,240,1,Semiurban,Approved
+45,49,Female,Married,Graduate,Salaried,66022,1083972,180,1,Semiurban,Rejected
+46,52,Female,Married,Graduate,Salaried,67206,1255922,240,1,Urban,Approved
+47,28,Female,Married,Not Graduate,Self Employed,23325,1157943,360,1,Semiurban,Approved
+48,48,Male,Married,Graduate,Self Employed,64389,640264,360,1,Urban,Rejected
+49,38,Male,Married,Graduate,Salaried,24116,534698,180,1,Semiurban,Approved
+50,28,Male,Single,Not Graduate,Self Employed,75577,1130764,120,1,Semiurban,Rejected
+51,36,Female,Single,Graduate,Salaried,18465,754614,180,0,Semiurban,Rejected
+52,33,Male,Single,Graduate,Self Employed,65306,476888,240,1,Semiurban,Approved
+53,29,Male,Single,Graduate,Salaried,60889,877130,300,1,Semiurban,Approved
+54,23,Male,Married,Not Graduate,Salaried,10400,267663,120,0,Semiurban,Rejected
+55,59,Female,Married,Graduate,Salaried,76317,1494306,240,1,Semiurban,Approved
+56,47,Male,Married,Not Graduate,Salaried,61664,1427608,120,1,Urban,Rejected
+57,42,Male,Married,Not Graduate,Salaried,78975,514648,120,1,Urban,Approved
+58,34,Male,Married,Graduate,Self Employed,14851,265168,360,1,Urban,Approved
+59,40,Male,Married,Not Graduate,Self Employed,74796,130361,120,1,Semiurban,Approved
+60,39,Male,Married,Graduate,Salaried,26308,395595,360,1,Semiurban,Rejected
+61,23,Female,Married,Graduate,Self Employed,73932,712516,300,0,Semiurban,Approved
+62,49,Male,Married,Not Graduate,Salaried,22388,333447,120,0,Urban,Rejected
+63,44,Male,Single,Graduate,Salaried,70894,1235539,300,1,Rural,Approved
+64,25,Male,Married,Not Graduate,Self Employed,71119,1252562,180,1,Urban,Rejected
+65,25,Female,Married,Graduate,Self Employed,65851,1477901,120,1,Semiurban,Rejected
+66,33,Male,Married,Not Graduate,Salaried,60857,250325,120,1,Rural,Rejected
+67,43,Female,Single,Not Graduate,Salaried,27871,576514,240,1,Semiurban,Approved
+68,47,Male,Single,Graduate,Self Employed,60791,1311252,180,1,Semiurban,Approved
+69,56,Male,Married,Graduate,Salaried,33167,520664,120,1,Rural,Approved
+70,25,Male,Single,Graduate,Self Employed,15525,1376694,180,1,Semiurban,Rejected
+71,33,Male,Single,Graduate,Salaried,71246,231747,180,1,Rural,Approved
+72,25,Female,Married,Graduate,Salaried,28390,192620,360,1,Urban,Approved
+73,52,Male,Single,Graduate,Salaried,27456,339864,120,1,Semiurban,Approved
+74,28,Male,Single,Graduate,Salaried,74972,1394898,240,1,Urban,Approved
+75,31,Male,Married,Graduate,Salaried,70000,950651,300,1,Urban,Approved
+76,45,Male,Married,Graduate,Salaried,36053,1095504,120,0,Semiurban,Rejected
+77,36,Female,Married,Graduate,Self Employed,12603,1312617,360,1,Urban,Approved
+78,41,Male,Married,Not Graduate,Self Employed,57969,1021976,180,1,Rural,Approved
+79,28,Female,Married,Graduate,Self Employed,30993,569938,120,1,Rural,Approved
+80,34,Female,Married,Graduate,Self Employed,10151,1341707,240,1,Semiurban,Approved
+81,49,Female,Married,Graduate,Salaried,71009,1238498,300,1,Urban,Rejected
+82,39,Male,Married,Graduate,Salaried,78873,350258,360,0,Urban,Rejected
+83,32,Female,Single,Graduate,Self Employed,54703,1423317,120,1,Urban,Approved
+84,57,Male,Married,Graduate,Self Employed,58971,1438961,120,1,Semiurban,Rejected
+85,57,Male,Married,Graduate,Self Employed,60497,115985,120,1,Rural,Rejected
+86,23,Male,Married,Not Graduate,Salaried,33300,1228685,120,1,Semiurban,Approved
+87,38,Female,Single,Graduate,Salaried,75119,1095327,180,1,Semiurban,Approved
+88,27,Male,Married,Graduate,Salaried,68954,1057242,120,1,Semiurban,Approved
+89,44,Male,Married,Graduate,Salaried,73579,948893,180,0,Rural,Approved
+90,37,Female,Married,Not Graduate,Self Employed,36811,814232,360,0,Urban,Rejected
+91,47,Female,Single,Not Graduate,Self Employed,47842,174236,360,1,Semiurban,Approved
+92,22,Male,Single,Not Graduate,Salaried,52960,643926,120,1,Urban,Rejected
+93,57,Male,Married,Graduate,Salaried,63852,726246,180,1,Semiurban,Approved
+94,51,Male,Married,Graduate,Salaried,35914,1000602,180,1,Semiurban,Approved
+95,23,Male,Married,Not Graduate,Salaried,14269,1456417,180,0,Urban,Approved
+96,41,Male,Single,Graduate,Self Employed,57826,679796,360,1,Urban,Rejected
+97,26,Male,Single,Not Graduate,Salaried,50728,331973,360,1,Urban,Approved
+98,52,Female,Married,Graduate,Salaried,33223,637663,300,1,Semiurban,Approved
+99,29,Female,Married,Graduate,Salaried,70269,717205,360,1,Urban,Rejected
+100,51,Female,Married,Graduate,Salaried,39427,1251240,240,1,Rural,Approved
+101,23,Female,Married,Graduate,Salaried,67636,529530,120,1,Rural,Rejected
+102,34,Male,Married,Not Graduate,Salaried,48138,826986,120,0,Urban,Approved
+103,25,Male,Single,Graduate,Salaried,73518,219578,360,0,Semiurban,Approved
+104,29,Male,Single,Not Graduate,Salaried,47210,231034,180,1,Rural,Approved
+105,46,Male,Married,Graduate,Salaried,56026,809414,120,1,Rural,Approved
+106,28,Male,Married,Graduate,Salaried,54358,635002,360,1,Urban,Approved
+107,35,Male,Married,Graduate,Salaried,31157,1121951,300,1,Semiurban,Approved
+108,50,Male,Single,Graduate,Self Employed,33511,681970,240,1,Urban,Rejected
+109,42,Male,Single,Graduate,Salaried,52454,680462,240,0,Semiurban,Approved
+110,58,Male,Married,Graduate,Self Employed,67474,1459572,300,1,Semiurban,Rejected
+111,54,Male,Single,Not Graduate,Salaried,39998,575954,360,0,Semiurban,Approved
+112,46,Female,Married,Graduate,Salaried,43297,1449901,120,1,Semiurban,Approved
+113,35,Male,Married,Graduate,Salaried,60315,1038868,360,1,Rural,Approved
+114,30,Male,Married,Graduate,Salaried,11968,1344218,360,1,Urban,Rejected
+115,36,Female,Single,Graduate,Salaried,47507,295869,240,0,Semiurban,Approved
+116,28,Male,Married,Graduate,Self Employed,43297,838533,300,0,Urban,Approved
+117,23,Male,Married,Graduate,Salaried,38436,766702,240,1,Urban,Approved
+118,52,Male,Married,Graduate,Salaried,63078,1331050,180,1,Rural,Approved
+119,28,Female,Single,Graduate,Self Employed,54630,286842,240,0,Semiurban,Approved
+120,32,Female,Married,Graduate,Salaried,63005,1449215,360,1,Urban,Approved
+121,34,Male,Married,Graduate,Salaried,60484,415616,300,1,Urban,Approved
+122,34,Male,Single,Graduate,Salaried,32422,431295,300,0,Urban,Approved
+123,47,Female,Married,Graduate,Salaried,30878,1413272,120,1,Urban,Approved
+124,29,Female,Married,Graduate,Self Employed,69589,304663,180,0,Semiurban,Rejected
+125,35,Male,Married,Graduate,Self Employed,19844,1238902,180,1,Urban,Approved
+126,23,Female,Single,Graduate,Salaried,74391,802685,180,0,Semiurban,Approved
+127,36,Male,Married,Graduate,Self Employed,38106,453241,360,0,Urban,Approved
+128,45,Female,Single,Graduate,Self Employed,52454,283507,120,0,Urban,Approved
+129,55,Male,Married,Not Graduate,Self Employed,40491,793544,180,0,Rural,Rejected
+130,25,Male,Single,Graduate,Salaried,15264,686338,120,1,Urban,Approved
+131,39,Female,Married,Graduate,Salaried,25044,1221710,240,0,Urban,Approved
+132,46,Female,Married,Graduate,Salaried,50137,331721,180,1,Rural,Approved
+133,45,Female,Married,Graduate,Salaried,32202,1448226,240,1,Rural,Approved
+134,27,Female,Married,Graduate,Salaried,17638,794688,120,1,Semiurban,Approved
+135,55,Male,Single,Graduate,Salaried,76672,1463305,300,1,Urban,Approved
+136,59,Male,Single,Graduate,Self Employed,31399,1462945,300,1,Semiurban,Approved
+137,24,Female,Married,Graduate,Salaried,63896,808885,300,0,Urban,Rejected
+138,40,Female,Married,Not Graduate,Salaried,71877,754824,240,1,Urban,Approved
+139,57,Male,Married,Graduate,Salaried,59688,433379,360,1,Rural,Approved
+140,40,Male,Married,Graduate,Self Employed,35672,840519,300,1,Semiurban,Approved
+141,49,Male,Married,Graduate,Self Employed,62113,994300,360,1,Urban,Rejected
+142,31,Female,Married,Graduate,Self Employed,28041,1309821,300,0,Rural,Approved
+143,39,Male,Single,Graduate,Salaried,16235,776462,240,1,Semiurban,Rejected
+144,25,Male,Married,Graduate,Salaried,34409,1177005,240,1,Rural,Rejected
+145,33,Male,Single,Graduate,Salaried,20926,1153259,180,1,Rural,Approved
+146,48,Male,Single,Graduate,Self Employed,33580,923352,240,1,Urban,Approved
+147,50,Male,Married,Graduate,Salaried,70853,603274,240,1,Urban,Approved
+148,33,Male,Married,Graduate,Salaried,42166,634309,180,1,Semiurban,Approved
+149,32,Female,Single,Graduate,Salaried,14837,434957,300,1,Semiurban,Rejected
+150,25,Male,Single,Graduate,Salaried,62948,372507,240,1,Semiurban,Approved
+151,45,Male,Married,Graduate,Salaried,63738,1476364,240,0,Rural,Approved
+152,47,Female,Single,Graduate,Salaried,69348,440712,360,0,Rural,Approved
+153,49,Male,Married,Graduate,Salaried,33984,598421,120,1,Semiurban,Approved
+154,25,Female,Single,Graduate,Salaried,57456,1007853,240,1,Urban,Approved
+155,57,Male,Married,Graduate,Salaried,77236,1472299,120,1,Semiurban,Rejected
+156,36,Female,Single,Graduate,Self Employed,65958,1024268,300,1,Urban,Rejected
+157,43,Male,Single,Graduate,Self Employed,49950,349937,180,1,Semiurban,Approved
+158,45,Male,Married,Graduate,Salaried,19726,840386,300,1,Semiurban,Rejected
+159,45,Male,Married,Graduate,Salaried,71401,1455417,360,1,Semiurban,Approved
+160,58,Male,Married,Graduate,Salaried,51980,1406379,240,1,Semiurban,Approved
+161,26,Male,Married,Graduate,Salaried,32329,894954,300,1,Semiurban,Approved
+162,27,Female,Married,Graduate,Salaried,11015,673636,180,1,Rural,Approved
+163,31,Male,Married,Not Graduate,Salaried,48625,1100839,120,1,Semiurban,Approved
+164,24,Male,Single,Graduate,Self Employed,62724,1180808,300,1,Urban,Approved
+165,59,Male,Married,Not Graduate,Self Employed,66826,356972,360,1,Urban,Rejected
+166,55,Male,Married,Not Graduate,Salaried,76511,1131624,240,1,Urban,Approved
+167,27,Male,Married,Graduate,Salaried,17330,1389513,240,1,Semiurban,Approved
+168,31,Male,Married,Graduate,Salaried,75549,705603,360,1,Urban,Approved
+169,37,Female,Married,Graduate,Self Employed,49515,186775,360,0,Urban,Rejected
+170,50,Male,Married,Graduate,Salaried,61681,936424,120,0,Urban,Approved
+171,24,Male,Single,Not Graduate,Salaried,79864,1461049,240,1,Urban,Rejected
+172,32,Female,Single,Graduate,Salaried,69719,371279,120,1,Semiurban,Approved
+173,58,Female,Married,Graduate,Salaried,45673,242710,120,1,Rural,Rejected
+174,25,Male,Married,Graduate,Salaried,65722,392571,300,0,Urban,Approved
+175,25,Female,Single,Not Graduate,Salaried,76631,994679,180,0,Semiurban,Approved
+176,45,Female,Married,Graduate,Salaried,11536,1076693,180,1,Semiurban,Rejected
+177,49,Male,Single,Graduate,Salaried,17122,735608,300,1,Semiurban,Approved
+178,56,Female,Married,Graduate,Self Employed,45395,1445209,120,0,Urban,Rejected
+179,59,Male,Married,Not Graduate,Salaried,66883,241037,300,1,Urban,Approved
+180,45,Male,Married,Graduate,Salaried,61532,936234,180,1,Semiurban,Rejected
+181,43,Male,Married,Graduate,Self Employed,60479,1178852,300,1,Rural,Approved
+182,47,Male,Married,Graduate,Self Employed,10401,240625,240,1,Rural,Approved
+183,39,Male,Married,Graduate,Salaried,35236,1023476,300,1,Urban,Rejected
+184,24,Male,Married,Graduate,Self Employed,26410,387204,120,1,Semiurban,Approved
+185,32,Male,Single,Graduate,Salaried,66223,153430,120,1,Urban,Approved
+186,30,Female,Single,Graduate,Salaried,49288,939108,120,1,Urban,Rejected
+187,54,Male,Married,Graduate,Salaried,63750,1113501,120,1,Semiurban,Approved
+188,47,Male,Married,Not Graduate,Salaried,33928,845672,360,0,Urban,Approved
+189,57,Male,Married,Graduate,Self Employed,16803,1414435,240,1,Semiurban,Rejected
+190,25,Male,Single,Graduate,Salaried,12240,1178087,300,1,Semiurban,Rejected
+191,23,Male,Married,Graduate,Salaried,56099,532690,300,1,Semiurban,Approved
+192,29,Female,Married,Graduate,Salaried,79533,951044,240,1,Urban,Approved
+193,28,Male,Married,Graduate,Salaried,22739,527199,300,1,Rural,Rejected
+194,57,Male,Single,Graduate,Salaried,51361,1247611,180,1,Rural,Approved
+195,55,Female,Married,Graduate,Self Employed,70559,1493013,300,1,Rural,Approved
+196,40,Female,Single,Not Graduate,Self Employed,47841,1209069,180,0,Rural,Rejected
+197,50,Male,Single,Not Graduate,Salaried,77616,602956,240,1,Rural,Approved
+198,27,Male,Single,Graduate,Salaried,71815,1237363,360,0,Semiurban,Rejected
+199,31,Male,Single,Graduate,Salaried,17075,112133,180,1,Urban,Approved
+200,26,Male,Married,Graduate,Self Employed,48673,980492,300,1,Urban,Approved
+201,45,Female,Married,Graduate,Salaried,26026,485669,300,1,Urban,Approved
+202,43,Male,Married,Not Graduate,Self Employed,54630,382123,180,1,Semiurban,Approved
+203,47,Female,Married,Graduate,Self Employed,39066,1364301,300,1,Rural,Rejected
+204,58,Female,Married,Not Graduate,Self Employed,58250,385991,360,1,Urban,Approved
+205,50,Male,Single,Graduate,Self Employed,64213,814756,360,1,Urban,Rejected
+206,57,Male,Married,Graduate,Salaried,55845,1008718,240,1,Semiurban,Rejected
+207,41,Male,Single,Graduate,Salaried,15857,421427,120,0,Urban,Approved
+208,39,Female,Married,Graduate,Salaried,13560,1304926,360,1,Urban,Approved
+209,36,Female,Single,Graduate,Salaried,10906,1249679,180,1,Urban,Rejected
+210,36,Male,Married,Graduate,Salaried,67289,190619,300,1,Rural,Approved
+211,45,Male,Married,Not Graduate,Self Employed,18325,1043503,120,1,Rural,Approved
+212,50,Male,Married,Graduate,Self Employed,61073,1195453,180,0,Semiurban,Approved
+213,38,Female,Single,Not Graduate,Salaried,60650,1158835,120,1,Semiurban,Approved
+214,46,Female,Single,Graduate,Salaried,55520,1149327,120,1,Urban,Approved
+215,37,Male,Married,Graduate,Self Employed,50629,181469,120,0,Rural,Approved
+216,38,Female,Married,Not Graduate,Salaried,60758,1166976,360,1,Semiurban,Approved
+217,42,Male,Single,Graduate,Salaried,59418,1268889,300,1,Urban,Approved
+218,48,Male,Married,Not Graduate,Salaried,68299,561307,120,1,Semiurban,Approved
+219,26,Male,Married,Graduate,Salaried,26154,355672,120,1,Urban,Approved
+220,43,Male,Single,Graduate,Self Employed,33341,966192,240,1,Semiurban,Approved
+221,54,Female,Married,Graduate,Salaried,61630,1328527,300,1,Rural,Approved
+222,23,Male,Married,Graduate,Self Employed,21889,464264,360,0,Semiurban,Approved
+223,56,Male,Single,Not Graduate,Self Employed,53309,507566,300,1,Urban,Approved
+224,40,Female,Single,Graduate,Salaried,79247,1049266,360,1,Rural,Rejected
+225,48,Male,Married,Not Graduate,Salaried,10826,849260,120,1,Rural,Approved
+226,57,Male,Married,Not Graduate,Salaried,27602,1360054,300,1,Urban,Approved
+227,23,Male,Married,Graduate,Salaried,33060,1246859,360,1,Urban,Approved
+228,39,Female,Single,Not Graduate,Self Employed,40593,833271,300,1,Rural,Approved
+229,44,Male,Single,Not Graduate,Salaried,58010,762807,180,1,Urban,Rejected
+230,47,Male,Single,Graduate,Self Employed,21303,580282,300,1,Semiurban,Approved
+231,32,Male,Married,Graduate,Salaried,22938,825526,240,1,Semiurban,Approved
+232,22,Female,Married,Graduate,Salaried,53625,901099,240,1,Rural,Approved
+233,57,Female,Married,Graduate,Salaried,75118,1465386,360,1,Urban,Rejected
+234,41,Male,Married,Graduate,Salaried,57124,599015,240,0,Rural,Approved
+235,52,Male,Single,Graduate,Salaried,60194,194056,360,1,Semiurban,Approved
+236,29,Male,Single,Graduate,Salaried,56959,734954,120,0,Rural,Approved
+237,45,Male,Single,Not Graduate,Salaried,37563,1062426,360,1,Semiurban,Approved
+238,41,Female,Married,Graduate,Salaried,26873,176940,300,0,Urban,Approved
+239,36,Male,Married,Graduate,Self Employed,20495,839867,300,1,Urban,Rejected
+240,51,Male,Married,Graduate,Salaried,71511,1317220,180,1,Semiurban,Rejected
+241,41,Female,Married,Graduate,Self Employed,49940,312752,120,0,Rural,Approved
+242,59,Female,Married,Graduate,Self Employed,68424,658755,240,1,Urban,Approved
+243,23,Male,Married,Graduate,Salaried,41295,321331,240,1,Rural,Approved
+244,27,Male,Married,Graduate,Self Employed,41276,1322137,120,0,Rural,Approved
+245,39,Female,Married,Graduate,Salaried,29530,1349691,300,1,Urban,Approved
+246,57,Female,Married,Graduate,Salaried,30736,1292885,360,1,Semiurban,Rejected
+247,35,Female,Married,Graduate,Self Employed,34978,1170781,180,1,Urban,Rejected
+248,47,Male,Married,Graduate,Self Employed,63565,237012,300,0,Semiurban,Rejected
+249,55,Female,Married,Graduate,Self Employed,52059,1009798,300,1,Semiurban,Approved
+250,51,Male,Married,Graduate,Self Employed,35881,424829,360,1,Urban,Approved
+251,28,Male,Married,Graduate,Self Employed,38143,1211069,120,0,Urban,Approved
+252,51,Female,Married,Graduate,Salaried,51135,174963,360,1,Semiurban,Approved
+253,39,Male,Single,Graduate,Self Employed,11403,356799,300,1,Urban,Rejected
+254,43,Female,Single,Graduate,Salaried,35567,150173,300,1,Rural,Approved
+255,38,Male,Married,Graduate,Self Employed,46970,1212237,300,1,Semiurban,Approved
+256,52,Male,Married,Graduate,Salaried,16416,1107257,360,1,Rural,Rejected
+257,38,Male,Single,Graduate,Self Employed,11624,965666,300,1,Rural,Rejected
+258,52,Female,Married,Graduate,Salaried,40884,219649,300,1,Urban,Approved
+259,34,Male,Married,Not Graduate,Self Employed,66651,736169,180,1,Urban,Approved
+260,48,Female,Married,Not Graduate,Self Employed,44734,933188,180,1,Semiurban,Approved
+261,41,Female,Married,Not Graduate,Salaried,50669,1098906,300,1,Rural,Approved
+262,38,Female,Married,Graduate,Self Employed,41664,524272,180,1,Semiurban,Approved
+263,50,Male,Single,Graduate,Self Employed,67244,1143549,180,1,Rural,Approved
+264,56,Male,Married,Graduate,Salaried,37013,701115,120,1,Rural,Approved
+265,29,Male,Married,Not Graduate,Salaried,48899,1476086,120,1,Urban,Approved
+266,59,Male,Married,Not Graduate,Salaried,17730,908588,240,1,Urban,Approved
+267,36,Female,Married,Graduate,Salaried,11678,239480,120,1,Semiurban,Rejected
+268,22,Male,Single,Graduate,Salaried,57584,1160714,360,1,Urban,Approved
+269,54,Male,Married,Graduate,Salaried,41059,962865,180,1,Urban,Approved
+270,24,Male,Married,Not Graduate,Self Employed,36208,568827,240,1,Semiurban,Approved
+271,59,Male,Married,Graduate,Salaried,26002,1338498,180,1,Semiurban,Rejected
+272,36,Female,Single,Graduate,Salaried,69572,343452,240,1,Urban,Approved
+273,39,Male,Single,Graduate,Self Employed,32266,1290137,300,1,Rural,Approved
+274,59,Male,Married,Not Graduate,Salaried,78878,191119,120,0,Rural,Rejected
+275,52,Male,Married,Not Graduate,Salaried,34163,1233092,240,0,Urban,Approved
+276,41,Male,Married,Graduate,Self Employed,43407,745754,180,0,Semiurban,Approved
+277,28,Male,Single,Graduate,Self Employed,53449,229643,240,1,Semiurban,Approved
+278,58,Female,Married,Graduate,Salaried,70893,1491222,180,0,Semiurban,Rejected
+279,48,Male,Single,Graduate,Salaried,72476,563201,360,0,Urban,Rejected
+280,29,Male,Married,Graduate,Salaried,21380,1459778,360,1,Urban,Rejected
+281,35,Female,Single,Graduate,Self Employed,63931,1082812,180,0,Rural,Approved
+282,36,Male,Married,Graduate,Salaried,20776,1491735,360,1,Rural,Approved
+283,28,Male,Married,Not Graduate,Salaried,38677,1447309,240,1,Rural,Approved
+284,54,Female,Married,Graduate,Salaried,45423,1120863,240,1,Urban,Approved
+285,55,Male,Married,Graduate,Self Employed,27993,922976,360,1,Semiurban,Approved
+286,25,Male,Married,Not Graduate,Salaried,48242,134507,120,1,Semiurban,Rejected
+287,22,Male,Married,Graduate,Self Employed,68003,362579,120,1,Urban,Approved
+288,35,Female,Single,Not Graduate,Salaried,57287,1312908,240,0,Semiurban,Rejected
+289,52,Female,Married,Not Graduate,Self Employed,15622,1019620,180,0,Urban,Approved
+290,59,Male,Single,Graduate,Salaried,67794,113422,120,0,Semiurban,Rejected
+291,41,Male,Married,Not Graduate,Salaried,14021,1265907,240,1,Urban,Approved
+292,24,Male,Married,Not Graduate,Salaried,33259,396271,360,1,Rural,Rejected
+293,56,Female,Married,Graduate,Salaried,67979,1227685,360,0,Urban,Approved
+294,54,Male,Single,Graduate,Salaried,20349,826034,180,1,Urban,Rejected
+295,36,Female,Married,Not Graduate,Salaried,46519,766947,300,1,Urban,Approved
+296,24,Male,Married,Graduate,Self Employed,43667,234131,240,1,Rural,Rejected
+297,49,Male,Married,Not Graduate,Salaried,65084,1331492,360,1,Urban,Rejected
+298,48,Male,Married,Graduate,Salaried,39021,223242,300,1,Semiurban,Rejected
+299,54,Female,Married,Not Graduate,Self Employed,30974,810759,240,0,Urban,Approved
+300,40,Male,Married,Graduate,Salaried,64787,1198001,180,1,Semiurban,Rejected
